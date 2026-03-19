@@ -96,7 +96,3 @@ AI-assisted drawing ✨
 # 🤝 Contributing
 
 Feel free to fork, improve, and submit pull requests!
-
-# 📜 License
-
-This project is open-source and available under the MIT License.
